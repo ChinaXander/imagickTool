@@ -1,0 +1,22 @@
+{
+    "name": "imagick/tools",
+    "description": "this is imagick tools",
+    "type": "library",
+    "require": {
+        "php": "^7.4",
+        "ext-imagick": "^3.7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "tools\\": "src/tools"
+        }
+    },
+    "authors": [
+        {
+            "name": "xds",
+            "email": "1905320249@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
