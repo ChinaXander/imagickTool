@@ -1,5 +1,5 @@
 {
-    "name": "imagick/tools",
+    "name": "imagickPdf/tools",
     "description": "this is imagick tools",
     "type": "library",
     "require": {
