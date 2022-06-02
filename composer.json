@@ -1,6 +1,6 @@
 {
     "name": "imagickPdf/tools",
-    "description": "this is imagick tools",
+    "description": "this is imagick tools [pdf to images]",
     "type": "library",
     "require": {
         "php": "^7.4",
