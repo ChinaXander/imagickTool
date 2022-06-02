@@ -1,5 +1,0 @@
-.idea
-*.htaccess
-test*
-composer.lock
-/vendor/
