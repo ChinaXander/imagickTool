@@ -3,7 +3,8 @@
     "description": "this is imagick tools [pdf to images]",
     "type": "library",
     "require": {
-        "php": "^7.0"
+        "php": "^7.0",
+        "ext-imagick": "*"
     },
     "license": "MIT",
     "autoload": {
