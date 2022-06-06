@@ -1,5 +1,5 @@
 {
-    "name": "imagick-pdf/tools",
+    "name": "imagick-tools/pdf",
     "description": "this is imagick tools [pdf to images]",
     "type": "library",
     "require": {
