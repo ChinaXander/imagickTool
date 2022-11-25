@@ -1,10 +1,12 @@
 <?php
 
+use Xander\imagickTools;
+
 require "vendor/autoload.php";
 
 $pdf = 'E:\PyWork\sku_v2\download\pdf\7f40511ad479e0d420a603aa1b13a438a22e3bd5.pdf';
 
-$im = new pdf\imagickTools($pdf);
+$im = new imagickTools($pdf);
 
 //转化后的图片名称，多页转换后名称格式为 第一页(test-0) 第二页(test-1) 第三页(test-2)
 $im->setFilename( 'test' );

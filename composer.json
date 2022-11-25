@@ -1,5 +1,5 @@
 {
-    "name": "imagick-tools/tools",
+    "name": "xander/image-to-pdf",
     "description": "this is imagick tools [pdf to images]",
     "type": "library",
     "require": {
@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "pdf\\": "src/pdf"
+            "Xander\\": "./"
         }
     },
     "authors": [

@@ -1,6 +1,6 @@
 <?php
 
-namespace pdf;
+namespace Xander;
 
 use Imagick;
 
